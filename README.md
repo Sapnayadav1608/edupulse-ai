@@ -217,3 +217,8 @@ node utils/seedPlacement.js
 
 ## License
 MIT
+
+---
+
+## Developer
+Developed by **Sapna Yadav** — [GitHub](https://github.com/xSapna)
