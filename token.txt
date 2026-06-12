@@ -1,0 +1,1 @@
+{"success":true,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMGYyZDYxOGY5ZDY4MDJiMDZiZWNmMyIsImlhdCI6MTc3OTM4MTEyOCwiZXhwIjoxNzc5OTg1OTI4fQ.8KHIO3oke3RJXBty-e4cuJQ5RoVhZg6FDuNzp48CGxo","user":{"id":"6a0f2d618f9d6802b06becf3","name":"Admin User","email":"admin@edupulse.com","role":"admin"}}
