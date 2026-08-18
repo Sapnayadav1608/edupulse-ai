@@ -6,8 +6,6 @@ dist/
 .DS_Store
 __pycache__/
 *.pyc
-*.pkl
-*.joblib
 uploads/notes/*
 uploads/assignments/*
 uploads/resumes/*
