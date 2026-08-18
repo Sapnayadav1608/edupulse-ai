@@ -18,7 +18,6 @@ const StudentPlacement = () => {
   const [myApps,     setMyApps]     = useState<any[]>([]);
   const [tab,        setTab]        = useState<'drives' | 'applications'>('drives');
   const [loading,    setLoading]    = useState(true);
-  const [applying,   setApplying]   = useState<string | null>(null);
   // Resume upload modal
   const [applyModal, setApplyModal] = useState<any>(null);
   const [resume,     setResume]     = useState<File | null>(null);

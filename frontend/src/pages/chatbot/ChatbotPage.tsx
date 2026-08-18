@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect, useCallback } from 'react';
 import {
   Send, Bot, Trash2, Sparkles, Copy, Check, RotateCcw,
-  Mic, MicOff, ImagePlus, X, ThumbsUp, ThumbsDown, Smile,
+  Mic, MicOff, ImagePlus, X, Smile,
   Download, Search, ChevronDown,
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';

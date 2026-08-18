@@ -4,7 +4,7 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContaine
 import {
   BookOpen, ClipboardList, Briefcase, TrendingUp,
   AlertCircle, CheckCircle, Brain, Sparkles, RefreshCw,
-  ChevronRight, Target, Zap, Award, Bell, Play, X,
+  ChevronRight, Target, Zap, Bell, Play, X,
 } from 'lucide-react';
 import StatsCard from '../../components/dashboard/StatsCard';
 import { useAuth } from '../../context/AuthContext';

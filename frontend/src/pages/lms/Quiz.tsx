@@ -127,7 +127,7 @@ const Quiz = () => {
   useEffect(() => {
     fetchQuizzes();
     if (user?.role === 'student') fetchInterests();
-  }, [user?.role]);
+  }, [user?.role]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const addQuestion = () =>
     setQuestions([...questions, { question: '', options: ['', '', '', ''], correctAnswer: 0, marks: 1 }]);

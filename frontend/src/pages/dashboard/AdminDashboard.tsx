@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { Users, BookOpen, ClipboardList, Briefcase, TrendingUp, Award, Brain, RefreshCw, AlertTriangle, CheckCircle, XCircle, GraduationCap, ArrowRight, Bell, BarChart2 } from 'lucide-react';
-import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar, Cell, Legend } from 'recharts';
+import { Users, ClipboardList, Briefcase, TrendingUp, Award, Brain, RefreshCw, AlertTriangle, CheckCircle, XCircle, GraduationCap, ArrowRight, Bell, BarChart2 } from 'lucide-react';
+import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar, Cell } from 'recharts';
 import StatsCard from '../../components/dashboard/StatsCard';
 import { motion, AnimatePresence } from 'framer-motion';
 import { analyticsService } from '../../services/analyticsService';

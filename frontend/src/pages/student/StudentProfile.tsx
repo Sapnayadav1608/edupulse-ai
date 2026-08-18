@@ -6,12 +6,6 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContaine
 import studentService, { StudentData } from '../../services/studentService';
 import attendanceService from '../../services/attendanceService';
 
-const placementBadge: Record<string, string> = {
-  not_applied: 'bg-gray-100 text-gray-600',
-  applied:     'bg-yellow-100 text-yellow-600',
-  placed:      'bg-green-100 text-green-600',
-};
-
 const StudentProfile = () => {
   const { id }     = useParams();
   const navigate   = useNavigate();

@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Save, Search, CheckCircle, AlertCircle, ChevronRight } from 'lucide-react';
+import { Save, Search, CheckCircle, ChevronRight } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import studentService, { StudentData } from '../../services/studentService';
 import attendanceService from '../../services/attendanceService';
